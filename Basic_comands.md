@@ -61,5 +61,5 @@ label {
 ![Visual Studio loco](Visual_Studio_Code_1.35_icon.svg "VS logo")
 
 <!-- Github Markdown -->
-* [] TArea 1
+* [ ] TArea 1
 * [X] Tarea 2
